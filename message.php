@@ -1,20 +1,17 @@
 <?php
 /**
- * Part of the Platform application.
+ * Part of the Platform Access extension.
  *
  * NOTICE OF LICENSE
  *
- * Licensed under the Cartalyst PSL License.
- *
- * This source file is subject to the Cartalyst PSL License that is
- * bundled with this package in the LICENSE file.
+ * Licensed under the WTFPL license.
  *
  * @package    Platform
  * @version    4.0.0
- * @author     Cartalyst LLC
- * @license    Cartalyst PSL
- * @copyright  (c) 2011-2015, Cartalyst LLC
- * @link       http://cartalyst.com
+ * @author     Sanatorium
+ * @license    WTFPL
+ * @copyright  2016, Sanatorium
+ * @link       http://sanatorium.ninja
  */
 
 return [

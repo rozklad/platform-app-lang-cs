@@ -1,20 +1,18 @@
 <?php
 /**
- * Part of the Platform application.
+ * Part of the Platform Access extension.
  *
  * NOTICE OF LICENSE
  *
- * Licensed under the Cartalyst PSL License.
- *
- * This source file is subject to the Cartalyst PSL License that is
- * bundled with this package in the license.txt file.
+ * Licensed under the WTFPL license.
  *
  * @package    Platform
- * @version    2.0.0
- * @author     Cartalyst LLC
- * @license    Cartalyst PSL
- * @copyright  (c) 2011-2014, Cartalyst LLC
- * @link       http://cartalyst.com
+ * @version    3.0.0
+ * @author     Sanatorium
+ * @license    WTFPL
+ * @copyright  2016, Sanatorium
+ * @link       http://sanatorium.ninja
  */
 
+// Backwards compatibility
 return include(__DIR__ . '/action.php');
