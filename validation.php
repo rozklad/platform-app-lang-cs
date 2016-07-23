@@ -112,5 +112,11 @@ return [
     | of "email". This simply helps us make messages a little cleaner.
     |
     */
-    'attributes' => [],
+    'attributes' => [
+        'email' => 'E-mailová adresa',
+        'name' => 'Jméno',
+        'first_name' => 'Jméno',
+        'last_name' => 'Příjmení',
+        'username' => 'Uživatelské jméno',
+    ],
 ];
