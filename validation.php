@@ -53,7 +53,7 @@ return [
     "in"               => "Zvolená hodnota pro :attribute není platná.",
     "integer"          => ":attribute musí být celé číslo.",
     "ip"               => ":attribute musí být platnou IP adresou.",
-    'json'             => 'The :attribute must be a valid JSON string.',
+    'json'             => ':attribute musí být JSON formát.',
     "max"              => [
         "numeric" => ":attribute musí být nižší než :max.",
         "file"    => ":attribute musí být menší než :max Kilobytů.",
@@ -73,9 +73,9 @@ return [
     "required"         => ":attribute musí být vyplněno.",
     "required_if"      => ":attribute musí být vyplněno pokud :other je :value.",
     "required_with"    => ":attribute musí být vyplněno pokud :values je zvoleno.",
-    "required_with_all" => "The :attribute field is required when :values is present.",
+    "required_with_all" => ":attribute pole je povinné pokud :values je zvoleno.",
     "required_without" => ":attribute musí být vyplněno pokud :values není vyplněno.",
-    "required_without_all" => "The :attribute field is required when none of :values are present.",
+    "required_without_all" => ":attribute pole je povinné pokud nic z :values je zvoleno.",
     "same"             => ":attribute a :other se musí shodovat.",
     "size"             => [
         "numeric" => ":attribute musí být přesně :size.",
@@ -83,8 +83,8 @@ return [
         "string"  => ":attribute musí být přesně :size znaků dlouhý.",
         "array"   => ":attribute musí obsahovat právě :size prvků.",
     ],
-    "string"           => "The :attribute must be a string.",
-    "timezone"         => "The :attribute must be a valid zone.",
+    "string"           => ":attribute musí být text.",
+    "timezone"         => ":attribute musí být časové pásmo.",
     "unique"           => ":attribute musí být unikátní.",
     "url"              => "Formát :attribute je neplatný.",
     /*
