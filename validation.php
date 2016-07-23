@@ -39,7 +39,7 @@ return [
         "string"  => ":attribute musí být delší než :min a kratší než :max znaků.",
         "array"   => ":attribute musí obsahovat nejméně :min a nesmí obsahovat více než :max prvků.",
     ],
-    "boolean"          => "The :attribute field must be true or false",
+    "boolean"          => ":attribute musí být true nebo false",
     "confirmed"        => ":attribute nebylo odsouhlaseno.",
     "date"             => ":attribute musí být platné datum.",
     "date_format"      => ":attribute není platný formát data podle :format.",
